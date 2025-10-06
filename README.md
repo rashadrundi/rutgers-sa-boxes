@@ -5,7 +5,7 @@ Boxes are a good way to place emphasis when conveying information, complete with
 <img width="1434" height="594" alt="image" src="https://github.com/user-attachments/assets/6319b1a5-b363-408d-92cd-a094fbe17a15" />
 
 ```
-<div class="container mt-5">
+<div class="container">
     <div class="row SA-box-row">
         <div class="col-md-4 SA-box-container">
             <div class="SA-box SA-box-light">
