@@ -1,0 +1,47 @@
+.SA-box-row {
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.SA-box-container {
+    padding: 5px;
+    box-sizing: border-box;
+    display:flex !important;
+    flex-direction: column !important;
+}
+.SA-box {
+    box-sizing: border-box;
+    padding: 30px;
+    color: white;
+    display: flex;  
+    align-items: center;
+    justify-content: center;
+    flex: 1 1 auto !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: space-between !important;
+}
+
+.SA-box-link-container {
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.SA-box-light {
+    background-color: #cc0033;
+}
+
+.SA-box-dark, .SA-box-dark a {
+    background-color: #8e0d18;
+}
+
+.SA-box-dark a:hover {
+    background-color: #cc0033;
+}
+
+hr {
+    width: 90%
+}
