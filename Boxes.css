@@ -38,8 +38,14 @@
     background-color: #8e0d18;
 }
 
-.SA-box-dark a:hover {
-    background-color: #cc0033;
+.SA-box-link-container a:hover {
+    background-color: white;
+    color: black !important;
+    border-color: white !important;
+}
+
+.SA-box-link-container a {
+    border-color: white;
 }
 
 hr {
